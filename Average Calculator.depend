@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615068072 source:c:\users\andrew\onedrive\desktop\personal use c programs\average calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
